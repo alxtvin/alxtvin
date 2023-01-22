@@ -17,8 +17,7 @@
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/alxtvin/checklist)
-- [Test-Suites and Test-Cases](https://github.com/alxtvin/test-cases)
+- [Checklists and Test-cases](https://github.com/alxtvin/checklist)
 - [Bug-Reports](https://github.com/alxtvin/bug-reports)
 - [SQL Queries](https://github.com/alxtvin/SQL)
 - [Postman Collections](https://github.com/alxtvin/postman)
