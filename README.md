@@ -1,4 +1,4 @@
-[![Header](https://github.com/alxtvin/alxtvin/blob/main/assets/allitlogo1.png)](https://github.com/alxtvin)
+[![Header]()](https://github.com/alxtvin)
 ## My CV
 [Link to my CV](https://docs.google.com/document/d/16Pojzcd3qJk7pPmBi5zQQ7A-9s9TMNTjkfzzrRrRHtg/)
 
@@ -9,7 +9,6 @@
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
 ![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1)
-![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 ![Header](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
@@ -17,7 +16,8 @@
 
 ### Testing Documentation
 
-- [Checklists and Test-cases](https://github.com/alxtvin/checklist)
+- [Checklists](https://github.com/alxtvin/checklists)
+- [Test-Cases](https://github.com/alxtvin/testCases)
 - [Bug-Reports](https://github.com/alxtvin/bugReports)
 - [SQL Queries](https://github.com/alxtvin/SQL)
 - [Postman Collections](https://github.com/alxtvin/postman)
