@@ -1,4 +1,4 @@
-[![Header]()](https://github.com/alxtvin)
+[![Header](https://github.com/alxtvin/alxtvin/blob/main/files/allitlogo1.png)](https://github.com/alxtvin)
 ## My CV
 [Link to my CV](https://docs.google.com/document/d/16Pojzcd3qJk7pPmBi5zQQ7A-9s9TMNTjkfzzrRrRHtg/)
 
