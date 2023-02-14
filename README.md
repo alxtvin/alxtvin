@@ -22,4 +22,4 @@
 - [SQL Queries](https://github.com/alxtvin/SQL)
 - [Postman Collections](https://github.com/alxtvin/postman)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alxtvin&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alxtvin&show_icons=true&theme=dark&hide=stars,prs,issues,contribs)
