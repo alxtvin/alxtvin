@@ -1,10 +1,9 @@
 [![Header](https://github.com/alxtvin/alxtvin/blob/main/files/allitlogo1.png)](https://github.com/alxtvin)
 ## My CV
-[Link to my CV](https://docs.google.com/document/d/16Pojzcd3qJk7pPmBi5zQQ7A-9s9TMNTjkfzzrRrRHtg/)
+[Link to my CV](https://drive.google.com/file/d/1sIX81MlJutN0hzdex4eVmqkemqQQ1bX0/view?usp=share_link)
 
 
 ### Tools
-![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![Header](https://img.shields.io/badge/YouTrack-090909?style=for-the-badge&logo=YCombinator&logoColor=FF318C)
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
 ![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
