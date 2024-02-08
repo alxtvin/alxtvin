@@ -10,7 +10,7 @@
 ![Header](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1)
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 ![Header](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
-![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/Charles-090909?style=for-the-badge&logo=charles&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/YouTrack-090909?style=for-the-badge&logo=YouTrack&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/dbeaver-090909?style=for-the-badge&logo=dbeaver&logoColor=8cc4d7)
 
