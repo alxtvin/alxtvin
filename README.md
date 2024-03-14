@@ -1,7 +1,4 @@
 [![Header](https://github.com/alxtvin/alxtvin/blob/main/files/allitlogo1.png)](https://github.com/alxtvin)
-// ## My CV
-// [Link to my CV](https://drive.google.com/file/d/1eYh1xGvLuUKYcFJusiQQvLS7VlgudAtm/view?usp=sharing)
-
 
 ### Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
