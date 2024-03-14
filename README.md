@@ -1,6 +1,6 @@
 [![Header](https://github.com/alxtvin/alxtvin/blob/main/files/allitlogo1.png)](https://github.com/alxtvin)
-## My CV
-[Link to my CV](https://drive.google.com/file/d/1eYh1xGvLuUKYcFJusiQQvLS7VlgudAtm/view?usp=sharing)
+// ## My CV
+// [Link to my CV](https://drive.google.com/file/d/1eYh1xGvLuUKYcFJusiQQvLS7VlgudAtm/view?usp=sharing)
 
 
 ### Tools
